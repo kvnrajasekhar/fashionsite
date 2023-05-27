@@ -4,7 +4,7 @@ body {
 }
 
 .main-bg {
-    width: 1500px;
+    width: 100%;
 }
 
 .main-h2 {
@@ -104,6 +104,7 @@ p {
 .featured-products {
     background-color: black;
     padding: 30px;
+    width: 100%;
 }
 
 .featured-products h2 {
@@ -169,6 +170,7 @@ p {
     padding: 30px 0px;
     font-family: 'Play', sans-serif;
     text-align: center;
+    width: 100%;
 }
 
 .footer .row {
